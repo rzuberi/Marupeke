@@ -1,0 +1,165 @@
+Grid 1
+O#OO__#
+____X_X
+#X____X
+#______
+##_____
+_XX#__X
+XX#_X##
+
+Grid 2
+X#XX__#
+____X_X
+#X____X
+#______
+##_____
+_XX#__X
+XX#_X##
+
+Grid 3:
+X#XX__#
+____X_X
+#X_X__X
+#___XX_
+##____X
+_XX#__X
+XX#_X##
+
+
+Grid 4
+X____
+_X_O_
+_#__X
+__X__
+__O#_
+
+
+Grid 5
+X____
+_X_O_
+_#__X
+__X__
+__O#_
+
+
+Grid 6
+_#___
+XX__X
+_##__
+#_#__
+_____
+
+
+Grid 7
+__X_
+___O
+XX__
+_X__
+
+
+Grid 8
+__X_
+___O
+XX__
+_X__
+
+
+Grid 9
+_#X#
+XXOO
+OXXO
+X#O_
+
+
+Grid 10
+_#X#
+XXOO
+OXXO
+X#O_
+
+
+Grid 11
+XOX_
+OXO_
+____
+____
+
+
+Grid 12
+_OX#
+O##O
+__#_
+____
+
+
+Grid 13
+X_X_
+_X_X
+_X_X
+X_X_
+
+
+Grid 14
+_OO__#OO
+#O_OO_#O
+#_OO__O_
+__#___OO
+_O___O_O
+OO#O_##_
+_#______
+__O#__OO
+
+
+Grid 15
+_#____#X
+OO#_#_O_
+O#_#_##_
+__#_#_#_
+_O__O#_#
+__O_#__#
+#___XO_#
+_O#_O_#O
+
+
+Grid 16
+____
+_XX_
+_OO_
+X___
+
+
+Grid 17
+X___
+_X__
+___X
+_X__
+
+
+Grid 18
+X___
+_X_X
+___X
+_XX_
+
+
+Grid 19
+O___
+_O__
+____
+___O
+
+
+Grid 20
+OX__
+XOX_
+_X__
+___O
+
+
+Grid 21
+OX__
+XOX_
+_X##
+__#O
+
+
